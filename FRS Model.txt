@@ -1,0 +1,28 @@
+
+
+		  MAIN FILE
+			 |   												   
+			 |   															     
+			 |   										   
+			\|/   											     
+        DATA STRUCTURES FILES
+			 |		/|\
+			 |		  \	
+			 |		   \	
+			 |		    \	
+			 |			 \
+			\|/			  \		
+		  CORE FILES	   \		
+			/  		\	    \			
+		   /    	 \	 	 \			
+		  /     	  \		  \			
+    CLASS FILES ---> CLASS FUNCTIONS FILES
+					  | 		 /|\
+					  |	 		 /	
+					  |		    /
+					 \|/       /			
+					DATABASE FILES
+
+
+
+

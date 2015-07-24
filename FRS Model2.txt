@@ -1,0 +1,27 @@
+
+
+		              TUI
+			 |      
+			 |        
+			 |      
+			\|/        
+        		DATA STRUCTURES
+			 |
+			 |
+			 |
+			 |
+			 |
+			\|/
+		        CORE FILES
+		         /  	          \
+		       /    	            \
+		     /     	              \
+   	    CLASS FILES  -------> CLASS FUNCTIONS FILES
+		              |
+                	              |     
+                                             \|/  
+		    DATABASE (.DAT & .TXT generated files)
+
+
+
+
